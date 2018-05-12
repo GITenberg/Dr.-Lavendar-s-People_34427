@@ -1,0 +1,40 @@
+_repo: Dr.-Lavendar-s-People_34427
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hitchcock, Lucius Wolcott
+    birthdate: 1868
+    deathdate: 1942
+    gutenberg_agent_id: '9373'
+    url: http://www.gutenberg.org/2009/agents/9373
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Deland, Margaret Wade Campbell
+    alias: Campbell, Margaretta Wade
+    birthdate: 1857
+    deathdate: 1945
+    gutenberg_agent_id: '888'
+    url: http://www.gutenberg.org/2009/agents/888
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Deland
+description: ''
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pennsylvania -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Villages -- Fiction'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+tableOfContents: The apotheosis of the Reverend Mr. Spangler -- The note -- The grasshopper
+  and the ant -- Amelia -- "An exceeding high mountain" -- At the stuffed-animal house.
+title: Dr. Lavendar's People
+url: http://www.gutenberg.org/ebooks/34427
